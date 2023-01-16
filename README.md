@@ -18,3 +18,7 @@
 - [ ] Android Jetpack Compose (모바일 앱)
 - [ ] Flutter (모바일 앱)
 - [ ] Spring (웹 프레임워크)
+
+# 내가 취업하고 싶은 회사
+네이버
+# Soft
